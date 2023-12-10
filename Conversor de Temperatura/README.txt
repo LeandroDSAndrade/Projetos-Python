@@ -1,0 +1,1 @@
+Conversor de temperatura °C para °F (Celsius para Fahrenheit)
